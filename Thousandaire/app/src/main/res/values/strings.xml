@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Thousandaire</string>
+
+    <string name="questionMickey">What is the name of Mickey Mouse\'s dog?</string>
+    <string name="pluto">Pluto</string>
+    <string name="goofy">Goofy</string>
+    <string name="minnie">Minnie</string>
+    <string name="daisy">Daisy</string>
+
+    <string name="questionSolarSystem">What is the largest planet in our solar system?</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="venus">Venus</string>
+
+    <string name="questionShipwrecked">How many people were originally shipwrecked on Gilligan\'s Island?</string>
+    <string name="two">2</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+
+    <string name="questionTable">Which of these is not an abbreviation for an element on the periodic table?</string>
+    <string name="Tc">Tc</string>
+    <string name="O">O</string>
+    <string name="Fe">Fe</string>
+    <string name="E">E</string>
+
+    <string name="questionEuro">The city Valletta is the capital of which European country?</string>
+    <string name="croatia">Croatia</string>
+    <string name="latvia">Latvia</string>
+    <string name="estonia">estonia</string>
+    <string name="malta">Malta</string>
+
+    <string name="questionSun">Approximately how many million miles is the Earth from the Sun?</string>
+    <string name="one">1</string>
+    <string name="oneHundred">100</string>
+    <string name="ten">10</string>
+    <string name="twoHundred">200</string>
+
+    <string name="title_activity_win">WinActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
