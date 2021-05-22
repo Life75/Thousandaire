@@ -1,6 +1,4 @@
-# COP 3665 - Mobile Programming
-
-# Project 1 - Who Wants to Be a Thousandaire?
+# Thousandaire
 
 ## Objective:
 
